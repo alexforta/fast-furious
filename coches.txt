@@ -1,5 +1,5 @@
 C15, SeatPanda, Reault 4L
-Seat Ibiza
+Seat Ibiza 2022
 Renault Clio
 Ford Fiesta
 Toyota Corolla
@@ -9,3 +9,5 @@ Peugeot 208
 Kia Rio
 Hyundai i20
 Opel Corsa
+MAzda 3
+Citroen C3
